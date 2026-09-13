@@ -1,1 +1,38 @@
-.kiro/s
+# Kiro specs and IDE config
+.kiro/
+
+# Maven build output
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Secrets and credentials — never commit these
+*.env
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+*.truststore
+secrets/
+credentials/
+application-secrets.yaml
+application-secrets.yml
+application-secrets.properties
