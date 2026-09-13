@@ -1,0 +1,16 @@
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/analyzer/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/config/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/domain/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/engine/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/CanvasPersistenceException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/ConfigurationNotFoundException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/ContainerNestingException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/InvalidCanvasStateException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/InvalidConfigurationException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/NoGrammarLoadedException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/SyntaxAnalyzerException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/UnknownBlockTypeException.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/exception/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/persistence/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/com/sintacticanalyzer/ui/package-info.java
+/Users/mepe/git/sintacticAnalizer/src/main/java/module-info.java

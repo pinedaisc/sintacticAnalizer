@@ -1,0 +1,166 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Crear estructura Maven y jerarquía de paquetes": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532085
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329541526
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789331085191
+      }
+    ],
+    "1.2 Crear jerarquía de excepciones": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532276
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329541696
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789331085176
+      }
+    ],
+    "2.1 Implementar `ValidityState`, `SyntaxRule` y `Grammar`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532307
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789331090340
+      }
+    ],
+    "2.3 Implementar `Block` y `ContainerBlock`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532337
+      }
+    ],
+    "2.5 Implementar `Canvas`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532368
+      }
+    ],
+    "3.1 Implementar `SyntaxValidator`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532395
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789331090878
+      }
+    ],
+    "3.3 Implementar `DebouncedSyntaxEngine`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532425
+      }
+    ],
+    "4.1 Implementar `YamlConfigParser` y DTOs": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532461
+      },
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789331091273
+      }
+    ],
+    "4.3 Implementar `YamlRuleLoader`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532489
+      }
+    ],
+    "5.1 Implementar `JsonCanvasSerializer` y DTOs": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532544
+      }
+    ],
+    "6. Checkpoint — Lógica de dominio y backend completos": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532572
+      }
+    ],
+    "7.1 Implementar clase `Analyzer`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532601
+      }
+    ],
+    "8.1 Implementar `BlockView` y `VisualFeedbackController`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532628
+      }
+    ],
+    "8.3 Implementar `CanvasView` y `DragAndDropHandler`": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532657
+      }
+    ],
+    "8.4 Implementar UI de inicio y manejo de errores visual": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532686
+      }
+    ],
+    "8.5 Implementar soporte de `ContainerBlock` en la UI": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532712
+      }
+    ],
+    "9.1 Conectar `Analyzer` con la `Application` JavaFX": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532739
+      }
+    ],
+    "10. Checkpoint final — Todos los tests pasan": [
+      {
+        "executionId": "91e554e7-a2f4-49da-9eef-3f4f1dc1b0df",
+        "chatSessionId": "sess_509a3ed0-31ac-4751-96cb-4376f8937663",
+        "timestamp": 1789329532764
+      }
+    ]
+  }
+}
